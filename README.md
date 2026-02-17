@@ -19,4 +19,3 @@ Minimize default risk
 
 Improve decision-making using data-driven models
 
-🧠 Machine Learning Workflow
